@@ -1,0 +1,22 @@
+
+div.text-slide {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+div.text-slide h1 {
+    display: flex;
+    height: auto;
+    font-size: 4rem;
+    margin: 1rem 0rem;
+}
+
+div.text-slide p {
+    display: flex;
+    height: auto;
+    font-size: 1.25rem;
+    margin: 1rem 0rem;
+}
